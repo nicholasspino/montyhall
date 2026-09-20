@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Simulate the Monty Hall Game
+Version: 0.1.0
+Authors@R:
+    person(given = "Nicholas",
+           family = "Spino",
+           email = "nicholas.spino1@gmail.com",
+           role = c("aut", "cre"))
+Description: Simulate the three-door Monty Hall game and compare the
+    outcomes of staying with the initial selection or switching doors.
+Depends: dplyr
+License: GPL-3
+Encoding: UTF-8
+Config/roxygen2/version: 8.1.0
